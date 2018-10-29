@@ -12,7 +12,7 @@ pip:  #installed with pip duh
     YAML
     ruamelyaml
     SpeechRecognition
-    gTTS
+    gTTS    #Google's TTS
     weather-api
     wikipedia
     request(unused)
