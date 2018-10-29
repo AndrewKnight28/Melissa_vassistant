@@ -1,0 +1,68 @@
+Melissa Updates:
+
+>13/09/18
+	w.p.o:
+
+	Misc:
+		proyect started
+		skeleton made
+		shopping list made	
+
+	Installed 
+		python 2.7
+		pip
+		git
+		Portaudio
+		Pyaudio
+		SpeechRecognition
+		
+	Tested:
+		STT(english)
+		.wav recording
+		TTS
+
+	Issues:
+		TTS speaker is a male
+		STT is in english
+
+	w.o.p.o:
+	none
+	
+>15/09/18
+	w.p.o:
+	none
+
+	w.o.p.o:
+
+	Misc:
+		Fixed TTS(found female voice)
+		found what *.yaml is
+		found what __init.py__ is for(allows to travel through dir)
+		main.py have been started (*1)
+		posponed adding to github
+		tts.py have been started (*2)
+		general_converstions.py have been started (*3)
+		brain.py have been started (*4)
+
+	Tested:
+		STT && TTS in one file
+		pull files 
+
+	(*1):
+	>finished 1st main.py(page 17)
+		yaml is to establish owner info
+		pulls tts from other dir
+		so far this only repeats what you said
+	>finished
+
+	(*2):
+	>finished tts.py
+		calls the espeak
+		added commands for female voice
+	
+	(*3):
+	>finished general_conversations
+		is default response
+ 		
+				
+
